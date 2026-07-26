@@ -24,13 +24,13 @@
 ### Programming Languages and tools : 
 
 <p>
- <img src="https://skillicons.dev/icons?i=cpp,html,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=cpp,html,git,github,vscode,css" />
 </p>
 
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=,js,mysql" />
 </p>
 
 ---
