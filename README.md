@@ -3,18 +3,18 @@
 <h3 align="center">Emerging Software Engineer | C++ Developer | HTML5| CSS</h3>
 
 <p align="center">
-  Passionate about building software, solving programming problems, and continuously learning new technologies.
+ Dedicated to crafting software, tackling complex challenges, and continually expanding my technical knowledge
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Software Engineering Student
 - 💻 Passionate about Software Engineering
-- 🚀 Strong foundation in **C++** and **HTML**
+- 🚀 Strong foundation in **C++** and **Web Development**
 - 🧠 Interested in Object-Oriented Programming and Problem Solving
-- 🌱 Currently learning **CSS**, **JavaScript**, and **SQL**
+- 🌱 Currently learning  **JavaScript**,**Note.js**, and **SQL**
 - 🎯 Goal: Become a Full-Stack Software Engineer
 
 ---
