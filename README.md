@@ -30,7 +30,7 @@
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=,js,mysql" />
+<img src="https://skillicons.dev/icons?js,mysql" />
 </p>
 
 ---
