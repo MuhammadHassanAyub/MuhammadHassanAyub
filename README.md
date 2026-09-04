@@ -64,15 +64,15 @@
 
 🔹 Fusion-Pay System(A Banking App)
 
-🔹 AI CharBot
+🔹 E-Global Website( E-Commerce Platform)
+
+🔹 Portfolio Website
 
 🔹 Encryption and Decryption System
 
 🔹 Mafia Network Tracking System
 
-🔹 Portfolio Website
-
-🔹 HTML Landing Pages
+🔹 
 
 > More projects are coming as I continue learning and building.
 
